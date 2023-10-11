@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Public+Sans:wght@300;400;800&family=Red+Hat+Display:wght@500;700;900&display=swap');
 
 .container {
-    background: url(/src/images/pattern-background-desktop.svg) center top no-repeat fixed;
+    background: url(./src/images/pattern-background-desktop.svg) center top no-repeat fixed;
     background-size: contain;
     display: flex;
     justify-content: center;
