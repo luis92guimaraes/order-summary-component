@@ -1,0 +1,8 @@
+:root {
+    --bg-price-color: hsl(225, 100%, 98%);
+    --bg-card-color: #FFFFFF;
+    --bg-main-color: hsl(225, 100%, 94%);
+    --title-color: hsl(223, 47%, 23%);
+    --text-color: hsl(224, 23%, 55%);
+    --btn-color: hsl(245, 75%, 52%);
+}
