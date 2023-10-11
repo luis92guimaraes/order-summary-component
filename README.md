@@ -1,4 +1,4 @@
-# Frontend Mento Challenge | Order Summary Component
+# Frontend Mentor Challenge | Order Summary Component
 
 
 #### Este é mais um desafio vindo do @Frontendmentor, é um exemplo de um menu para compra de um pacote de aplicativo.
