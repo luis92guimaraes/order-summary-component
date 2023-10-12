@@ -2,25 +2,38 @@
 
     .container {
         background: url(../images/pattern-background-desktop.svg);
+        /* margin: 20px 20px; */
     }
     .container .card {
         width: 320px;
-        height: 530px;
-        
+        height: 540px;
     }
 
     .container .card .image img {
         width: 100%;
     }
 
+    .container .card .infos {
+        margin: 20px 30px;
+    }
     .infos h1 {
-        font-size: 20px;
+        font-size: 22px;
     }
 
     .infos .text {
-        font-size: 14px;
+        font-size: 16px;
         line-height: 20px;
-        padding: 0 30px 20px;
     }
 
+    .infos .plan .annual h4 {
+        font-size: 12px;
+    }
+
+    .infos .plan .annual .price {
+        font-size: 12px;
+    }
+
+    .infos .plan .change a {
+        font-size: 10px;
+    }
 }
